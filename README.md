@@ -1,2 +1,2 @@
-# TestAMP-AMG
-test AMP/AMG
+# AWSのマネージドサービスのPromethues、Grafanaをテストするための環境構築
+とりあえず途中のExcelファイル保存
